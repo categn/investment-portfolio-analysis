@@ -1,5 +1,5 @@
 # investment-portfolio-analysis
-Project from the course Laboratory of Data Analytics for Investment
+Project developed the course Laboratory of Data Analytics for Investment
 
 This project aims to identify the best factors for portfolio construction, optimize risk management, and evaluate portfolio strategies through various risk metrics and performance measures. The following steps were implemented:
 - Select the best factors from the 5 Fama-French factors (market, size, value, profitability, investment) and some additional factors (momentum, industry, short-term and long-term reversal factors) with the Lasso Regression evaluating betas
