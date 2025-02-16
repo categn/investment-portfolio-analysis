@@ -11,11 +11,13 @@ This project aims to identify the best factors for portfolio construction, optim
 - Conduct a cross-portfolio analysis through factor analysis to assess the portfolio's sensitivity to systematic risk factors and residual analysis to measure the idiosyncratic risk
 
 ## Files
-- `factor_analysis.ipynb` – Factor selection and regression analysis
-- `portfolio_construction.py` – Portfolio optimization models
-- `risk_evaluation.py` – Risk assessment metrics
+- `DAFI.py` – main file for the implementation of the project
+- `formulas.py` – utility functions used inside 'DAFI.py'
+- `DAFI REPORT.pdf` – detailed report with methodology and results
+- `PPT DAFI.pdf` – final presentation of the project
 
-## Technologies Used
-- **Python**: pandas, NumPy, scikit-learn, statsmodels
+## Tools used
+- **Programming**: PyCharm and Python 
+- **Libraries**: pandas, NumPy, scikit-learn, statsmodels
 - **Data Visualization**: Matplotlib, Seaborn
 - **Portfolio Optimization**: scipy.optimize, CVXPY
